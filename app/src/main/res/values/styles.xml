@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+        <!-- Estilo principal do aplicativo -->
+        <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+            <!-- Cor principal da ActionBar (muda para azul) -->
+            <item name="colorPrimary">@color/my_blue_color</item>
+            <!-- Cor escura da barra de status -->
+            <item name="colorPrimaryDark">@color/my_blue_color</item>
+            <!-- Cor de destaque para botões e elementos -->
+            <item name="colorAccent">@color/my_blue_color</item>
+        </style>
+</resources>
+
